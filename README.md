@@ -3,19 +3,18 @@
 
 ## [1. Outline](https://github.com/samchon/resume/blob/master/STORY.md#1-outline)
 ### [1.1. Profile](https://github.com/samchon/resume/blob/master/STORY.md#11-outline)
-이름: 남 정호
+이름: 김 성훈
 
-  - 생년월일: 1988-03-11
-  - 연락처: 010-3627-0016
-  - Github: https://github.com/samchon
+  - 생년월일: 1999-05-27
+  - 연락처: 010-3191-6601
+  - Github: https://github.com/seongffm
 
 ### [1.2. Education](https://github.com/samchon/resume/blob/master/STORY.md#12-education)
-한성대학교, 2011-03 ~ 2014-08
+조선대학교, 2018-03 ~ 2024-02
 
-  - 주전공: 정보시스템공학
-  - 복수전공: 경영학
-  - 학점: 4.16 / 4.50
-    - 비고: 조기 졸업
+  - 주전공: 전자공학
+  - 학점: 3.35 / 4.50
+  
 
 ### [1.3. Awards](https://github.com/samchon/resume/blob/master/STORY.md#13-awards)
   - [Samchon Simulation](https://github.com/samchon/resume/blob/master/STORY.md#322-samchon-simulation): 한성대 공학경진대회 2012 은상
